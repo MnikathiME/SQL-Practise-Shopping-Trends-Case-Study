@@ -9,6 +9,7 @@ Functions such as COALESCE, IFNULL, and CASE were used to manage missing values 
 Aggregations (COUNT, SUM, AVG, MAX) were used to analyze trends.
 Groupings were applied to understand purchasing behavior across categories.
 Filtering conditions helped isolate records with missing fields or specific behaviors.
+
 *Insights Found
 
 High and medium spenders could be clearly identified once NULL purchase amounts were handled.

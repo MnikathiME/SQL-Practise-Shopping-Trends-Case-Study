@@ -19,5 +19,6 @@ Some items were frequently purchased despite having missing shipping information
 Proper NULL handling was essential to avoid misleading results and allowed clearer insights into customer behavior.
 
 3. Tool used
+
 Snowflake
 

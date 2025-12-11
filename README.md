@@ -20,5 +20,7 @@ Proper NULL handling was essential to avoid misleading results and allowed clear
 
 3. Tool used
 
+Power BI
+
 Snowflake
 
